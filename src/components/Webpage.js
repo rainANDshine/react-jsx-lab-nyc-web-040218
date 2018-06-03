@@ -11,7 +11,6 @@ class Webpage extends React.Component {
     return (
       <FillerText />,
       <FillerText />
-
     )
   }
 }
